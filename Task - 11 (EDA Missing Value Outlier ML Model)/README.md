@@ -1,7 +1,9 @@
 Sequence of My Project
 
 Data Description
+
 Overview of the dataset
+
 Univariate analysis of Numerical Columns
     Age
     Educational Num and Education
@@ -19,5 +21,7 @@ Univariate analysis of Numerical Columns
     WorkClass
     Income
     Fnlwgt
+
 Same Operations on Test Data
+
 Saving the final file for Bivariate Analysis

@@ -46,5 +46,17 @@ If you want to see the bivariate Analysis, Do visit the given link:
  - Race vs Native-Country vs Education vs Occupation vs Income
  - Education vs Occupation vs Gender vs Race vs Income
 
-**Removing the fnlwgt column**
-**Data Preprocessing for Machine Learning**
+**Removing the fnlwgt column**<br>
+**Data Preprocessing for Machine Learning**<br>
+**Feature Scaling**<br>
+**Checking the normality of each numerical column using ggplot and Feature Transformation**<br>
+ - Box-Cox Transformation
+ - Log Transformation
+ - Yeo-Johnson Transformation
+
+**Encoding**
+ - Label Encoding
+ - Dummy Encoding
+
+**Preprocessing On Test Data**<br>
+**Saving and Loading the File for ML**

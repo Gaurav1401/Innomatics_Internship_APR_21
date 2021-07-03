@@ -60,3 +60,35 @@ If you want to see the bivariate Analysis, Do visit the given link:
 
 **Preprocessing On Test Data**<br>
 **Saving and Loading the File for ML**
+
+# FeatureSelection_Boosting_Loading_MLmodel
+
+**Importing Required Libraries**<br>
+**Random Forest**<br>
+**SVM**<br>
+**Logistic Regression**<br>
+**OverSampling**<br>
+ - Downloading the oversampled file
+ - Applying Random Forest, Logistic Regression, SVM on OverSampled Data<br>
+
+**HyperParameter Tuning**<br>
+ - Using RF, Logistic, SVM on Normal Data
+ - Using RF, Logistic, SVM on Resampled Data<br>
+
+**Xgboost**
+ - Hyperparameter Tuning
+   - On Noraml Data
+   - On Resampled Data
+   
+**Adaboost**
+ - Hyperparameter Tuning
+   - On Noraml Data
+   - On Resampled Data
+ 
+**Catboost**
+ - Hyperparameter Tuning
+   - On Noraml Data
+   - On Resampled Data
+   
+**Feature Selection Using Boruta**
+  - On Resampled Data(Since, majority of the models were working good with Resampled Data)

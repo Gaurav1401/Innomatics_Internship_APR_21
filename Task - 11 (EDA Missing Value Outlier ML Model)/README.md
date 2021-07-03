@@ -63,6 +63,8 @@ If you want to see the bivariate Analysis, Do visit the given link:
 
 # FeatureSelection_Boosting_Loading_MLmodel
 
+ - [Kaggle Notebook Link for Machine Learning](https://www.kaggle.com/gauravkumar008/predicting-adult-income)
+
 **Importing Required Libraries**<br>
 **Random Forest**<br>
 **SVM**<br>
